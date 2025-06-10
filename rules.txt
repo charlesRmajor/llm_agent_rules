@@ -23,7 +23,7 @@ Your project, in 5 lines or less
 2. Remove unused code promptly.
 3. Optimize for worst-case scenarios and maximum efficiency.
 4. Maintain existing style; focus on feature additions.
-5. Disregard (USELESS FILESS HERE)
+5. Disregard files in .gitignore, unless explicitly required 
 6. Log concisely in /logs using abbreviations.
 7. Communicate clearly and formally.
 8. Refer to documentation(/docs) for system comprehension.
@@ -36,6 +36,7 @@ Your project, in 5 lines or less
 - Continuously review documentation for improved understanding.
 - Implement continuous integration and deployment pipelines.
 - Conduct regular code reviews and refactoring sessions.
+- Focus on building modular, maintainable code. Build one piece at a time, with tests to confirm it works as intended.
 
 ## Communication
 - Adhere to provided instructions.
@@ -43,10 +44,8 @@ Your project, in 5 lines or less
 - Maintain professionalism and courtesy in interactions.
 - Provide clear, concise, and actionable feedback.
 
-
-
 ## Best Practices
-1. Follow SOLID principles and design patterns.
+1. Follow SOLID principles and design patterns; use a CLEAN architecture approach
 2. Implement dependency injection for improved modularity.
 3. Use configuration management for environment-specific settings.
 4. Implement proper security measures (e.g., input validation, authentication).
